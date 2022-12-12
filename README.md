@@ -9,3 +9,7 @@ Switch.java - Arithmetic Calculator using Switch Case without sub-methods.
 calc.java - Arithmetic Calculator using Switch Case using Sub-Method which doesn't return the results in main method
 
 calc_main.java - Arithmetic Calculator program that uses switch case and calls the sub-method and returns results to main method.
+
+prime.java - Check if the number entered is prime or not within main method.
+
+prime2.java  - Check if the number entered is prime or not using functions.
